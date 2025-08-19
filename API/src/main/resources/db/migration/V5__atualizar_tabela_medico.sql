@@ -1,0 +1,2 @@
+ALTER TABLE medico
+MODIFY COLUMN especialidade VARCHAR(100);
