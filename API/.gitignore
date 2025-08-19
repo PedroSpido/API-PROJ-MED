@@ -34,3 +34,6 @@ build/
 
 .env
 application-secrets.properties
+
+.DS_Store
+
